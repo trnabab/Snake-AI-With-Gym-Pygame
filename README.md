@@ -1,1 +1,1 @@
-# Snake-AI-With-Gym---Pygame
+# Snake AI with Pygame and Gym
